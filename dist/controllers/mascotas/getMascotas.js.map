@@ -1,0 +1,1 @@
+{"version":3,"file":"getMascotas.js","sourceRoot":"","sources":["../../../controllers/mascotas/getMascotas.ts"],"names":[],"mappings":";;;;;;;;;;;;AACA,yCAAuC;AAEhC,MAAM,WAAW,GAAG,CAAO,IAAa,EAAE,GAAa,EAAE,EAAE;IAChE,MAAM,OAAO,GAAG,MAAM,gBAAO,CAAC,OAAO,EAAE,CAAC;IAExC,GAAG,CAAC,IAAI,CAAC,OAAO,CAAC,CAAC;AACpB,CAAC,CAAA,CAAC;AAJW,QAAA,WAAW,eAItB"}
