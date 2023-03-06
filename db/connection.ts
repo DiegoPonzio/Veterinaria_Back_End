@@ -1,6 +1,7 @@
 import { Sequelize } from "sequelize";
 
-export const db = new Sequelize("heroku_367c3cab9e34b03", "b8b743c26b0c34", "018810c7", {
-  host: "us-cdbr-east-06.cleardb.net",
+export const db = new Sequelize("railway", "root", "SeQhNDRxXm7q1LMq6mJX", {
+  host: "containers-us-west-125.railway.app",
+  port: 5634,
   dialect: "mysql",
 });
