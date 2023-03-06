@@ -48,7 +48,7 @@ Este es **Back end** de la aplicación de una veterinaria, en la cual se puede r
 ## API
 
 Documentación de la API del backend, incluyendo las rutas y parámetros de entrada y 
-salida, la encontrarás en el siguiente enlace: [API REST](https://documenter.getpostman.com/view/24868281/2s93JowQj8)
+salida, la encontrarás en el siguiente enlace: [API REST](https://documenter.getpostman.com/view/24868281/2s93Jox5cZ)
 
 ## Contribución
 
