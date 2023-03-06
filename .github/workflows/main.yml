@@ -1,0 +1,10 @@
+name: Ejemplo de flujo de trabajo
+on: [push]
+jobs:
+  ejemplo:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Imprime la URL del proyecto
+      env:
+        URL_PROYECTO: ${{ secrets.URL_PROYECTO }}
+      run: echo $URL_PROYECTO
