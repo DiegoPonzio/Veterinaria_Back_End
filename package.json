@@ -4,9 +4,8 @@
   "description": "Este es el backend de la veterinaria, la cual se conecta a una base de datos de MySQL, resultado a una REST API",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "tsc && node ./dist/app.js",
-    "postinstall": "tsc",
+    "build": "tsc",
+    "start": "node dist/index.js",
     "dev": "nodemon ./app.ts"
   },
   "keywords": [],
