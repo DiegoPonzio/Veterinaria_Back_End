@@ -2,9 +2,6 @@
 
 #### _Metodos Agiles 6IV6_
 
-https://veterinariabackend-production-51eb.up.railway.app/
-
-
 Este es **Back end** de la aplicación de una veterinaria, en la cual se puede registrar a los clientes, mascotas y citas, además de poder ver las citas que tiene un cliente y las citas que tiene una mascota.
 
 ## Requisitos previos
