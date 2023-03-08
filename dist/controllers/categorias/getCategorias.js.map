@@ -1,1 +1,0 @@
-{"version":3,"file":"getCategorias.js","sourceRoot":"","sources":["../../../controllers/categorias/getCategorias.ts"],"names":[],"mappings":";;;;;;;;;;;;AACA,yCAAyC;AAElC,MAAM,aAAa,GAAG,CAAO,IAAa,EAAE,GAAa,EAAE,EAAE;IAClE,MAAM,UAAU,GAAG,MAAM,kBAAS,CAAC,OAAO,EAAE,CAAC;IAC7C,GAAG,CAAC,IAAI,CAAC,UAAU,CAAC,CAAC;AACvB,CAAC,CAAA,CAAC;AAHW,QAAA,aAAa,iBAGxB"}

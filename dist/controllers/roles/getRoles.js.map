@@ -1,1 +1,0 @@
-{"version":3,"file":"getRoles.js","sourceRoot":"","sources":["../../../controllers/roles/getRoles.ts"],"names":[],"mappings":";;;;;;;;;;;;AACA,yCAAmC;AAE5B,MAAM,QAAQ,GAAG,CAAO,IAAa,EAAE,GAAa,EAAE,EAAE;IAC7D,MAAM,KAAK,GAAG,MAAM,YAAG,CAAC,OAAO,EAAE,CAAC;IAClC,GAAG,CAAC,IAAI,CAAC,KAAK,CAAC,CAAC;AAClB,CAAC,CAAA,CAAC;AAHW,QAAA,QAAQ,YAGnB"}
